@@ -66,10 +66,10 @@ public class Products {
 		
 		Product p1 = new Product(1,"CAR",4500000,"TATA",0);
 		Product p2 = new Product(2,"CAR",3600000,"MERCIDES",10);
-		Product p3 = new Product(3,"CAR",8540000,"KIA",20);
+		Product p3 = new Product(3,"CAR",8540000,"KIA",5);
 		
-		Product p4 = new Product(4,"BIKE",150000,"BAJAJ",30);
-		Product p5 = new Product(5,"BIKE",96600,"HERO",0);
+		Product p4 = new Product(4,"BIKE",150000,"BAJAJ",10);
+		Product p5 = new Product(5,"BIKE",96600,"HERO",2);
 		Product p6 = new Product(6,"BIKE",132000,"HONDA",0);
 		
 		
