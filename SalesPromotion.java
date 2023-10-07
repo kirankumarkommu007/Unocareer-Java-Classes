@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class SalesPromotion {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
-        System.out.println(" enter the number of colonies :");		
+       /* System.out.println(" enter the number of colonies :");		
         int c = input.nextInt();
         System.out.println(" enter the number of buildings : ");		
         int k =(input.nextInt());
@@ -25,9 +25,8 @@ public class SalesPromotion {
      System.out.println(" the Money will be "+(count*Money1));
         
 	}
-}
-
-	/*	public static void main(String[] args) {
+}*/
+	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter no of Test Cases");
@@ -69,5 +68,5 @@ public class SalesPromotion {
 			
 		}
 
-	}*/
+	}
 
